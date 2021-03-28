@@ -13,7 +13,7 @@
     "sass": "^1.32.8",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "https://github.com/MadsHaerup/monstersPractice",
+  "homepage": "https://github.io/MadsHaerup/monstersPractice",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
