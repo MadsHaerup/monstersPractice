@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MadsHaerup/monstersPractice/static/css/main.9ef1f87d.chunk.css",
-    "main.js": "/MadsHaerup/monstersPractice/static/js/main.6f515785.chunk.js",
-    "main.js.map": "/MadsHaerup/monstersPractice/static/js/main.6f515785.chunk.js.map",
-    "runtime-main.js": "/MadsHaerup/monstersPractice/static/js/runtime-main.c99acdd1.js",
-    "runtime-main.js.map": "/MadsHaerup/monstersPractice/static/js/runtime-main.c99acdd1.js.map",
-    "static/js/2.6bbc90be.chunk.js": "/MadsHaerup/monstersPractice/static/js/2.6bbc90be.chunk.js",
-    "static/js/2.6bbc90be.chunk.js.map": "/MadsHaerup/monstersPractice/static/js/2.6bbc90be.chunk.js.map",
-    "index.html": "/MadsHaerup/monstersPractice/index.html",
-    "static/css/main.9ef1f87d.chunk.css.map": "/MadsHaerup/monstersPractice/static/css/main.9ef1f87d.chunk.css.map",
-    "static/js/2.6bbc90be.chunk.js.LICENSE.txt": "/MadsHaerup/monstersPractice/static/js/2.6bbc90be.chunk.js.LICENSE.txt"
+    "main.css": "/madshaerup/monstersPractice/static/css/main.9ef1f87d.chunk.css",
+    "main.js": "/madshaerup/monstersPractice/static/js/main.6f515785.chunk.js",
+    "main.js.map": "/madshaerup/monstersPractice/static/js/main.6f515785.chunk.js.map",
+    "runtime-main.js": "/madshaerup/monstersPractice/static/js/runtime-main.4df6f163.js",
+    "runtime-main.js.map": "/madshaerup/monstersPractice/static/js/runtime-main.4df6f163.js.map",
+    "static/js/2.6bbc90be.chunk.js": "/madshaerup/monstersPractice/static/js/2.6bbc90be.chunk.js",
+    "static/js/2.6bbc90be.chunk.js.map": "/madshaerup/monstersPractice/static/js/2.6bbc90be.chunk.js.map",
+    "index.html": "/madshaerup/monstersPractice/index.html",
+    "static/css/main.9ef1f87d.chunk.css.map": "/madshaerup/monstersPractice/static/css/main.9ef1f87d.chunk.css.map",
+    "static/js/2.6bbc90be.chunk.js.LICENSE.txt": "/madshaerup/monstersPractice/static/js/2.6bbc90be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c99acdd1.js",
+    "static/js/runtime-main.4df6f163.js",
     "static/js/2.6bbc90be.chunk.js",
     "static/css/main.9ef1f87d.chunk.css",
     "static/js/main.6f515785.chunk.js"
