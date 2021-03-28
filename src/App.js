@@ -30,6 +30,8 @@ handleChange = (e) =>{
       monster.name.toLowerCase().includes(searchField.toLowerCase())
     )
     return(
+      <>
+      <h1>Monsters</h1>
       <div className="App">
         <SearchField 
         placeholder="search monsters"
@@ -37,6 +39,7 @@ handleChange = (e) =>{
         />
         <CardList monsters={filteredMonsters}/>
       </div>
+      </>
   );
 }
 }

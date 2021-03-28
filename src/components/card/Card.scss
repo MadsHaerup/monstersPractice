@@ -13,6 +13,11 @@
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
 
+  h2{
+    font-family: 'Bigelow Rules', cursive;
+    font-size:1.8em;
+  }
+
   &:hover{
     transform: scale(1.05);
   }
